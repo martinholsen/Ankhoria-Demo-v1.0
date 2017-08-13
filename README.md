@@ -11,13 +11,14 @@ Ankhoria demo hub
 
 ## Weapons
 
-    Runic Revolver - Deals increased damage in proportion to the enemies mana
+    Runic Revolver - Removes 10% of targets max mana on hit. The amount of mana is also dealt as damage to the target. 
     
-    Stunning Crossbow - Stuns for 0.5 sec on hit
+    Stunning Crossbow - Fires a projectile that stuns and deals damage (nonballistic). The stun increases with distance. 
     
-    Handcannon - Launches a slow but powerful projectile
+    Handcannon - Launches a slow but powerful projectile that explodes on impact with ground or target. The damage increases 
+    with time. 
     
-    Manadrinker - This sword deals damage to mana instead and steals a portion of it
+    Manadrinker - This sword deals damage to mana instead and steals a portion of it.
     
     Solar Staff - Charges up a powerful beam of solar power. Player is slow while charging. (hitscan)
     
@@ -26,6 +27,9 @@ Ankhoria demo hub
     
     Minmore Musket - Fires a round that deals moderate damage. Successful hits reduces the cooldown, and increases damage permanently 
     (until the end of the match).
+    
+    Blackfire Lantern - Consumes mana when used. Fires a ball of fire. Deals 30% of targets current health. All DoT-effects on target 
+    are consumed and the equivalent damage is dealt instantly. 
     
 ## Passive Abilities
 
@@ -38,3 +42,6 @@ Ankhoria demo hub
     Life Tap - Convert a portion of your health to mana
     
     Void Prison - Create an area of inescapable void
+    
+    Decay - Creates an orb mid air. After a short while, it explodes applying a DoT. If the target already has Decay, it will stack 
+    and refresh its full duration
