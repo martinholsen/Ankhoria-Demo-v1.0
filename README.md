@@ -21,6 +21,12 @@ Ankhoria demo hub
     
     Solar Staff - Charges up a powerful beam of solar power. Player is slow while charging. (hitscan)
     
+    Darkbomb - Lobs a bomb that explodes on impact with a target or after a set time. If the bomb is hit with one of your projectiles, 
+    it explodes instantly for double damage and radius. 
+    
+    Minmore Musket - Fires a round that deals moderate damage. Successful hits reduces the cooldown, and increases damage permanently 
+    (until the end of the match).
+    
 ## Passive Abilities
 
     Manashield - A portion of the damage taken is transfered to mana damage instead
