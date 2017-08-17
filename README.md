@@ -7,7 +7,7 @@ Ankhoria demo hub
 
 ## Classes
     
-    Paladin, Charlatan, Spellthief, Bard, Canoneer, Mage Hunter
+    Paladin, Charlatan, Spellthief, Bard, Canoneer, Mage Hunter, Swashbuckler
 
 ## Weapons
 
@@ -33,6 +33,8 @@ Ankhoria demo hub
     
     Rapier - Deals double dmg on full mana, drains mana slowly, can parry attacks to block all dmg and regain mana (timing and precision
     requred for parry)
+    
+    Cutlass - Charge attack, subsequent hits deal more dmg
     
 ## Passive Abilities
 
