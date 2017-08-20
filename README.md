@@ -7,7 +7,7 @@ Ankhoria demo hub
 
 ## Classes
     
-    Paladin, Charlatan, Spellthief, Bard, Canoneer, Mage Hunter
+    Paladin, Charlatan, Spellthief, Bard, Canoneer, Mage Hunter, Swashbuckler
 
 ## Weapons
 
@@ -31,6 +31,11 @@ Ankhoria demo hub
     Blackfire Lantern - Consumes mana when used. Fires a ball of fire. Deals 30% of targets current health. All DoT-effects on target 
     are consumed and the equivalent damage is dealt instantly. 
     
+    Rapier - Deals double dmg on full mana, drains mana slowly, can parry attacks to block all dmg and regain mana (timing and precision
+    requred for parry)
+    
+    Cutlass - Charge attack, subsequent hits deal more dmg
+    
 ## Passive Abilities
 
     Manashield - A portion of the damage taken is transfered to mana damage instead
@@ -45,3 +50,9 @@ Ankhoria demo hub
     
     Decay - Creates an orb mid air. After a short while, it explodes applying a DoT. If the target already has Decay, it will stack 
     and refresh its full duration
+
+## Concepts
+
+    Melee charge attack - Charging a melee attack will make give your attack certain attributes like extra movement or dmg (movement:
+    think doomfist, dmg: Think super smash chargeattacks)
+    
